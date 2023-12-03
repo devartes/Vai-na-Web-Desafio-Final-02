@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+<div align="center">
+<a href="https://vainaweb.com.br/">
+  <img src="https://raw.githubusercontent.com/devartes/Vai-na-Web-Desafio-03-Inverno/7ce6f6f08b1e9ac4b797db5383a4a816e31bcc9d/assets/img/vainaweb.svg" alt="vainaweb" width="100">
+</a>
+
+
+# Final Challenge 02 - Vai na Web
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
